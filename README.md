@@ -47,5 +47,6 @@ npm install
 
 #License
 
-This project is licensed under theGNU GENERAL PUBLIC LICENSE, allowing you to 
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, this guarantees that users are free to use, share, and modify the software without paying anyone for it
+
 
