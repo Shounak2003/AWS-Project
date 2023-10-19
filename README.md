@@ -32,6 +32,13 @@ git clone [https://github.com/yourusername/aws-web-deployment.git](https://githu
 cd aws-web-deployment
 npm install
 
+
+![image](https://github.com/Shounak2003/AWS-Project/assets/93007487/2e19f96d-bad6-4c8a-86e9-c6e55f2410ef)
+
+![image](https://github.com/Shounak2003/AWS-Project/assets/93007487/095dbc21-15c1-435a-b35a-76d415887b25)
+
+
+
 # Acknowledgments
 
 - https://www.youtube.com/watch?v=7Gym2XVcA5A&ab_channel=Intellipaat
