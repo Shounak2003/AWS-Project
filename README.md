@@ -37,7 +37,9 @@ npm install
 
 ![image](https://github.com/Shounak2003/AWS-Project/assets/93007487/095dbc21-15c1-435a-b35a-76d415887b25)
 
+#License
 
+This project is licensed under the GNU GENERAL PUBLIC LICENSE, this guarantees that users are free to use, share, and modify the software without paying anyone for it
 
 # Acknowledgment
 
@@ -45,8 +47,6 @@ npm install
 - https://www.cloudways.com/blog/aws-for-beginners/
 
 
-#License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE, this guarantees that users are free to use, share, and modify the software without paying anyone for it
 
 
