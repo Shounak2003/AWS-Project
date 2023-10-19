@@ -43,3 +43,9 @@ npm install
 
 - https://www.youtube.com/watch?v=7Gym2XVcA5A&ab_channel=Intellipaat
 - https://www.cloudways.com/blog/aws-for-beginners/
+
+
+#License
+
+This project is licensed under theGNU GENERAL PUBLIC LICENSE, allowing you to 
+
