@@ -28,7 +28,7 @@ Getting Started
 
 
 # Example setup steps
-git clone https://github.com/yourusername/aws-web-deployment.git
+git clone [https://github.com/yourusername/aws-web-deployment.git](https://github.com/Shounak2003/AWS-Project.git)
 cd aws-web-deployment
 npm install
 
