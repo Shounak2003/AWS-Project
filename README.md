@@ -39,7 +39,7 @@ npm install
 
 
 
-# Acknowledgments
+# Acknowledgment
 
 - https://www.youtube.com/watch?v=7Gym2XVcA5A&ab_channel=Intellipaat
 - https://www.cloudways.com/blog/aws-for-beginners/
