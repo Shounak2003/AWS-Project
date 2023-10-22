@@ -33,7 +33,8 @@ cd aws-web-deployment
 npm install
 
 
-![image](https://github.com/Shounak2003/AWS-Project/assets/93007487/2e19f96d-bad6-4c8a-86e9-c6e55f2410ef)
+<img width="960" alt="image" src="https://github.com/Shounak2003/AWS-Project/assets/93007487/1cbfa03c-d7d8-4825-8149-c69b856284a7">
+
 
 ![image](https://github.com/Shounak2003/AWS-Project/assets/93007487/095dbc21-15c1-435a-b35a-76d415887b25)
 
